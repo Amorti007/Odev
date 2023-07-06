@@ -1,0 +1,15 @@
+C:\Users\Trindal\Desktop\Proje\Odev\Thread\ThreadOkumaUygulamasi\ThreadOkumaUygulamasi\bin\Debug\net6.0\ThreadOkumaUygulamasi.exe
+C:\Users\Trindal\Desktop\Proje\Odev\Thread\ThreadOkumaUygulamasi\ThreadOkumaUygulamasi\bin\Debug\net6.0\ThreadOkumaUygulamasi.deps.json
+C:\Users\Trindal\Desktop\Proje\Odev\Thread\ThreadOkumaUygulamasi\ThreadOkumaUygulamasi\bin\Debug\net6.0\ThreadOkumaUygulamasi.runtimeconfig.json
+C:\Users\Trindal\Desktop\Proje\Odev\Thread\ThreadOkumaUygulamasi\ThreadOkumaUygulamasi\bin\Debug\net6.0\ThreadOkumaUygulamasi.dll
+C:\Users\Trindal\Desktop\Proje\Odev\Thread\ThreadOkumaUygulamasi\ThreadOkumaUygulamasi\bin\Debug\net6.0\ThreadOkumaUygulamasi.pdb
+C:\Users\Trindal\Desktop\Proje\Odev\Thread\ThreadOkumaUygulamasi\ThreadOkumaUygulamasi\obj\Debug\net6.0\ThreadOkumaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Trindal\Desktop\Proje\Odev\Thread\ThreadOkumaUygulamasi\ThreadOkumaUygulamasi\obj\Debug\net6.0\ThreadOkumaUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trindal\Desktop\Proje\Odev\Thread\ThreadOkumaUygulamasi\ThreadOkumaUygulamasi\obj\Debug\net6.0\ThreadOkumaUygulamasi.AssemblyInfoInputs.cache
+C:\Users\Trindal\Desktop\Proje\Odev\Thread\ThreadOkumaUygulamasi\ThreadOkumaUygulamasi\obj\Debug\net6.0\ThreadOkumaUygulamasi.AssemblyInfo.cs
+C:\Users\Trindal\Desktop\Proje\Odev\Thread\ThreadOkumaUygulamasi\ThreadOkumaUygulamasi\obj\Debug\net6.0\ThreadOkumaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Trindal\Desktop\Proje\Odev\Thread\ThreadOkumaUygulamasi\ThreadOkumaUygulamasi\obj\Debug\net6.0\ThreadOkumaUygulamasi.dll
+C:\Users\Trindal\Desktop\Proje\Odev\Thread\ThreadOkumaUygulamasi\ThreadOkumaUygulamasi\obj\Debug\net6.0\refint\ThreadOkumaUygulamasi.dll
+C:\Users\Trindal\Desktop\Proje\Odev\Thread\ThreadOkumaUygulamasi\ThreadOkumaUygulamasi\obj\Debug\net6.0\ThreadOkumaUygulamasi.pdb
+C:\Users\Trindal\Desktop\Proje\Odev\Thread\ThreadOkumaUygulamasi\ThreadOkumaUygulamasi\obj\Debug\net6.0\ThreadOkumaUygulamasi.genruntimeconfig.cache
+C:\Users\Trindal\Desktop\Proje\Odev\Thread\ThreadOkumaUygulamasi\ThreadOkumaUygulamasi\obj\Debug\net6.0\ref\ThreadOkumaUygulamasi.dll
